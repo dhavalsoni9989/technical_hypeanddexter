@@ -1,0 +1,52 @@
+Please create the HTML and CSS for the image "design.png" as best as you can in the file "index.html". Include simple rollover effects on CTAs.
+
+Font family: 'Poppins' (google font)
+
+body font size: 18px;
+heading font size: 40px
+eyebrow font size: 22px
+statistic font size: 36px
+
+
+colors:
+#ffffff, #00354f, #0d82a1, #1f242a, #000000
+
+
+
+Page Content
+________________________
+
+stats
+
+Our Business in Numbers
+
+Lorem ipsum dolor sit amet. Eos adipisci omnis ut odit atque ut ipsam omnis ea facere magni. In fugiat optio quo quaerat rerum et ullam doloribus ea omnis voluptates et impedit odit est iusto cumque quo minus illum. Qui rerum omnis ut minima sapiente et dolor adipisci et dolorum autem et nisi ratione ad cupiditate quia ab voluptate dolorum.
+
+
+Statistics
+__________________
+
+22 years
+Operating since 2000
+
+230+
+Team members across Australia
+
+$11.3b
+Assests under management.
+
+25
+Countries globally
+
+850+
+Team members around the planet.
+
+
+
+Call to actions
+________________________
+
+EoFY Report
+Get in touch
+
+
